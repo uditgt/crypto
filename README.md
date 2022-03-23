@@ -12,7 +12,7 @@
     * subject custodial wallet providers to Federal oversight
     * limit role of custodial wallet providers (e.g. cannot issue coins, make loans) - *to avoid concentration of power* / *bifurcated ecosystems*
     * establish standard for inter-operability between stablecoins
- 
+* 2022 Feb - Project Hamilton [Phase-1](https://github.com/uditgt/crypto/blob/main/Project-Hamilton-Phase-1-Whitepaper.pdf) 
 
 ### Speeches
 * 2022 Jan - OCC Michael Hsu [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202022%20Jan%20-%20Michael%20Hsu%20speech.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-2.html)
@@ -23,9 +23,6 @@
   *  Lack of access to digital banking and payment services for some segments and expensiveness of cross-border payments
   *  Fed is thinking **crititcally** about CBDC - *need it to play out lender of last resort role* - esp. in times of crises when people move from stablecoins to fiat...  Complementary role of private stablecoin and CBDC
   * **4 key principles for CBDC - (i) privacy, (ii) intermediated through bank, (iii) widely transferable, and (iv) identity-verified**
-
-### Others
-* 2022 Feb - Project Hamilton [Phase-1](https://github.com/uditgt/crypto/blob/main/Project-Hamilton-Phase-1-Whitepaper.pdf)
 
 ### StableCoins
 * Tether / USDT - [attestation report](https://tether.to/en/transparency/#reports), [Dec-21](https://assets.ctfassets.net/vyse88cgwfbl/4hiNJsZ98LlZqCJHKzrLpV/2b6338482ef0093382885f80ba6f1083/Tether_Assurance-12-31-21.pdf)
@@ -39,6 +36,15 @@
     src="https://github.com/uditgt/crypto/blob/main/Fig%20-%20Top%20Stablecoins.png"
   >
 </p>
+
+<p align="center">
+  <img 
+    width="800"
+    height="500"
+    src="https://github.com/uditgt/crypto/blob/main/Fig%20-%20Top%20Stablecoins%20in%20Contracts.png"
+  >
+</p>
+
 
 **Approvals**:
 * OCC: 
