@@ -53,8 +53,9 @@
   >
 </p>
 
-### Others
-* Coinbase rewards can be due to 'interest', 'inflation' or ['staking'](https://help.coinbase.com/en/coinbase/trading-and-funding/staking-rewards/yield). Sweeping funds to Compound supply pool is considered a [security](https://www.theverge.com/2021/9/8/22662826/coinbase-sec-lend-regulation-crypto-lawsuit-exchange) by SEC so Coinbase haulted its [Lend](https://www.theverge.com/2021/12/9/22826888/coinbase-defi-interest-non-us-compound-lending-program#) program.
+### Industry Stuff
+* **Compound** - DeFi lending/ borrowing protocol. [whitepaper](https://github.com/uditgt/crypto/blob/main/Compound.Whitepaper.pdf), [link](https://compound.finance/docs#guides), [Adam Bavosa](https://medium.com/compound-finance/a-walkthrough-of-contributing-to-the-compound-protocol-9450cbe2133a)
+* **Coinbase** rewards can be due to 'interest' (e.g. [USDC](https://help.coinbase.com/en/coinbase/taxes-reports-and-financial-services/financial-services/usd-coin-rewards-faq), [DAI](https://help.coinbase.com/en/coinbase/trading-and-funding/other/dai-rewards)), ['inflation'](https://help.coinbase.com/en/coinbase/trading-and-funding/staking-rewards/staking-inflation) or ['staking'](https://help.coinbase.com/en/coinbase/trading-and-funding/staking-rewards/yield). Sweeping funds to Compound supply pool is considered a [security](https://www.theverge.com/2021/9/8/22662826/coinbase-sec-lend-regulation-crypto-lawsuit-exchange) by SEC so Coinbase haulted its [Lend](https://www.theverge.com/2021/12/9/22826888/coinbase-defi-interest-non-us-compound-lending-program#) program. [medium post](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
 
 **Approvals**:
 * OCC: 
