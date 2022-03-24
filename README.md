@@ -53,6 +53,8 @@
   >
 </p>
 
+### Others
+* Coinbase rewards can be due to 'interest', 'inflation' or ['staking'](https://help.coinbase.com/en/coinbase/trading-and-funding/staking-rewards/yield). Sweeping funds to Compound supply pool is considered a [security](https://www.theverge.com/2021/9/8/22662826/coinbase-sec-lend-regulation-crypto-lawsuit-exchange) by SEC so Coinbase haulted its [Lend](https://www.theverge.com/2021/12/9/22826888/coinbase-defi-interest-non-us-compound-lending-program#) program.
 
 **Approvals**:
 * OCC: 
