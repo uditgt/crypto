@@ -41,7 +41,7 @@
 ### DeFi & Exchanges
 * **Compound** - DeFi lending/ borrowing protocol. [whitepaper](https://github.com/uditgt/crypto/blob/main/Compound.Whitepaper.pdf), [link](https://compound.finance/docs#guides), [Adam Bavosa](https://medium.com/compound-finance/a-walkthrough-of-contributing-to-the-compound-protocol-9450cbe2133a), [article1](https://linen.app/articles/how-to-use-compound-liquidity-pools-to-earn-your-first-defi-yield/)
 * **Compound Treasury** - Launched in June 2021. convert USD to USDC and supply to Compound to earn 4% return (Fireblock as custody) [deck](https://github.com/uditgt/crypto/blob/main/Compound%20Treasury%20Overview.pdf), [risk assessment](https://github.com/uditgt/crypto/blob/main/CompoundMarketRiskAssessment.pdf)
-  * Considered a security
+  * Structured as a security at front-end. Participates in the same permissionless pool, and not a segregated pool. 
 * **AAVE**: Similar to compound, but borrowing/ lending rate are more [stable](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate) + Allows [Flash Loans (9bps)](https://docs.aave.com/faq/flash-loans)
 * **AAVE Arc**: Announced ~July 2021 and launched [~Jan 2022](https://cryptobriefing.com/aave-has-launched-permissioned-pools-for-institutions/), it is a permissioned liquidity pool designed to be compliant with AML. 
   * Provide segregated liquidity pool, where you engage with only known participants [fireblock](https://www.fireblocks.com/blog/permissioned-defi-goes-live-with-aave-arc-fireblocks/)
