@@ -32,9 +32,11 @@
   *  Fed is thinking **crititcally** about CBDC - *need it to play out lender of last resort role* - esp. in times of crises when people move from stablecoins to fiat...  Complementary role of private stablecoin and CBDC
   * **4 key principles for CBDC - (i) privacy, (ii) intermediated through bank, (iii) widely transferable, and (iv) identity-verified**
 
-**ex-USA CBDC**
-* **e-CNY**: Phased roll-out from 2019. 261mn users by 2021-end, accepted by 8+mn merchants [link1](https://www.scmp.com/tech/tech-trends/article/3163953/chinas-digital-currency-e-cny-wallet-nearly-doubles-user-base-two).
-  * 2021 July - PBOC [whitepaper](https://github.com/uditgt/crypto/blob/main/POBC%20-%20eCNY%20whitepaper%202021%20July.pdf)
+**ex-USA CBDCs**
+* CBDC [tracker](https://cbdctracker.org/)
+* **e-CNY**: Phased roll-out from 2019. 261mn users by 2021-end, accepted by 8+mn merchants [link1](https://www.scmp.com/tech/tech-trends/article/3163953/chinas-digital-currency-e-cny-wallet-nearly-doubles-user-base-two). PBOC [whitepaper](https://github.com/uditgt/crypto/blob/main/POBC%20-%20eCNY%20whitepaper%202021%20July.pdf), 2021 July.
+
+  
 ---
 ### DeFi & Exchanges
 * **Compound** - DeFi lending/ borrowing protocol. [whitepaper](https://github.com/uditgt/crypto/blob/main/Compound.Whitepaper.pdf), [link](https://compound.finance/docs#guides), [Adam Bavosa](https://medium.com/compound-finance/a-walkthrough-of-contributing-to-the-compound-protocol-9450cbe2133a), [article1](https://linen.app/articles/how-to-use-compound-liquidity-pools-to-earn-your-first-defi-yield/)
