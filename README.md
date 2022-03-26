@@ -21,6 +21,10 @@
   * Strengthens USD as global reserve currency - *maybe foreign individuals will hold USD reserve in future too*
   * Risk to Banking - outlow of Deposits + higher cost of borrowing - can be mitigated by placing limit on indiviual holding of CBDC; paying 0% interest
 * 2022 Feb - Project Hamilton [Phase-1](https://github.com/uditgt/crypto/blob/main/Project-Hamilton-Phase-1-Whitepaper.pdf) 
+* 2022 Feb - FSB Assessment of Risks to Financial Stability from Crypto-assets [report](https://github.com/uditgt/crypto/blob/main/FSB%20-%202022%20Feb%20Risks%20to%20Financial%20Stability%20from%20Crypto%20Assets.pdf). Intermediation between TradeFi and Crypto is increasing - banks/ institutions getting increasing involved + use of complex/leverage products. **Key Risks:**
+  1. **Crypto-assets** (not backed by reserves, e.g. BTC) - increasing mainstreet exposure (ETFs, CME futures, Treasury investments), intermediation with general economy - 'wealth' effect, 'confidence' effects, increasing acceptance of crypto-payment rails (El Salvador, Tesla)
+  2. **Stablecoins** - liquidity mismatch, credit risk; run on reserves can spill to short-term funding markets; redemption rights differ. **GSCs (GLobal Stable Coins)** also exposed to currency risk (issuance ≠ assets), risk of disintermediation to domestic banks if people switch to foreign more stable currency
+  3. **DeFi** - special risks, e.g. no clear legal liablity; concentration to few protocols and technologies
 
 **Speeches**
 * 2022 Jan - OCC Michael Hsu [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202022%20Jan%20-%20Michael%20Hsu%20speech.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-2.html)
@@ -38,7 +42,7 @@
 
   
 ---
-### DeFi & Exchanges
+### Crypto Ecosystem: DeFi, Exchanges, Corporates
 * **Compound** - DeFi lending/ borrowing protocol. [whitepaper](https://github.com/uditgt/crypto/blob/main/Compound.Whitepaper.pdf), [link](https://compound.finance/docs#guides), [Adam Bavosa](https://medium.com/compound-finance/a-walkthrough-of-contributing-to-the-compound-protocol-9450cbe2133a), [article1](https://linen.app/articles/how-to-use-compound-liquidity-pools-to-earn-your-first-defi-yield/)
 * **Compound Treasury** - Launched in June 2021. convert USD to USDC and supply to Compound to earn 4% return (Fireblock as custody) [deck](https://github.com/uditgt/crypto/blob/main/Compound%20Treasury%20Overview.pdf), [risk assessment](https://github.com/uditgt/crypto/blob/main/CompoundMarketRiskAssessment.pdf)
   * Structured as a security at front-end. Participates in the same permissionless pool, and not a segregated pool. 
@@ -50,12 +54,15 @@
 * **Coinbase** rewards can be due to 'interest' (e.g. [USDC](https://help.coinbase.com/en/coinbase/taxes-reports-and-financial-services/financial-services/usd-coin-rewards-faq), [DAI](https://help.coinbase.com/en/coinbase/trading-and-funding/other/dai-rewards)), ['inflation'](https://help.coinbase.com/en/coinbase/trading-and-funding/staking-rewards/staking-inflation) or ['staking'](https://help.coinbase.com/en/coinbase/trading-and-funding/staking-rewards/yield). Sweeping funds to Compound supply pool is considered a [security](https://www.theverge.com/2021/9/8/22662826/coinbase-sec-lend-regulation-crypto-lawsuit-exchange) by SEC so Coinbase haulted its [Lend](https://www.theverge.com/2021/12/9/22826888/coinbase-defi-interest-non-us-compound-lending-program#) program. [medium post](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
 * **Ripple's XRP** is in a lawsuit with SEC, since SEC claims it is a ['security'](https://www.theverge.com/2020/12/22/22196064/ripple-sec-cryptocurrency-security-currency-xrp) and not a 'currency'. [CBDC report](https://github.com/uditgt/crypto/blob/main/Ripple%20CBDC%202020.pdf), [Trends report](https://github.com/uditgt/crypto/blob/main/Ripple%20Crypto%20Trends%202022.pdf)
   * Unlike Bitcoin and Ethereum which are mined and deemed currencies, *"Ripple started XRP by creating 100 billion units all at once. Ripple owns about 6.4 billion XRP, and Garlinghouse and Larsen also own a good chunk of it. Another 48 billion XRP are held in reserve, for periodic sales. This difference may be why the SEC is claiming XRP is a security, not a currency."*
+* **Public Companies** holding BTC as [treasury asset](https://www.buybitcoinworldwide.com/treasuries/) - MicroStrategy (125k), Tesla (43k), Square (8k)
 
 **StableCoins**
 * Tether / USDT - [attestation report](https://tether.to/en/transparency/#reports), [Dec-21](https://assets.ctfassets.net/vyse88cgwfbl/4hiNJsZ98LlZqCJHKzrLpV/2b6338482ef0093382885f80ba6f1083/Tether_Assurance-12-31-21.pdf)
 * Centre / USDC - [attestation report](https://www.centre.io/usdc-transparency)
 * Binance USD - BUSD
 * DAI
+
+---
 <p align="center">
   <img 
     width="800"
@@ -81,6 +88,14 @@
   >
 </p>
 
+<p align="center">
+  <img 
+    width="800"
+    height="500"
+    src="https://github.com/uditgt/crypto/blob/main/Fig%20-%20Defi%20TLV%20FSB%20Report%20202202.png"
+    alt="FSB Risk Assessment report - 2022 Feb"
+  >
+</p>
 
 
 ---
