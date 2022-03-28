@@ -1,11 +1,12 @@
 # Cryptocurrencies & Blockchain
 
 ### Regulatory Chatter & Speeches
-* 2020 July - Federally Chartered Banks and Thrifts May Provide Custody Services For Crypto Assets [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202020%20July%20-%20custody.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2020/nr-occ-2020-98.html)
-* 2020 Sep - Federally Chartered Banks and Thrifts May Engage in Certain Stablecoin Activities [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202020%20Sep%20-%20stablecoin.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2020/nr-occ-2020-125.html)
-* 2021 Jan - Authority to Use Independent Node Verification Networks and Stablecoins for Payment Activities [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202021%20Jan%20-%20network%20node.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2.html)
-* 2021 Nov - OCC Clarifies [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202021%20Nov%20-%20clarification.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-121.html)
-* 2021 Nov - President's Working Group Report (Treasury, FED, SEC, CFTC, +OCC, +FDIC) [report](https://github.com/uditgt/crypto/blob/main/PWG%20-%20report.pdf), [memo](https://github.com/uditgt/crypto/blob/main/PWG%20-%20memo.pdf)
+* 2020 July - **OCC** Federally Chartered Banks and Thrifts May Provide Custody Services For Crypto Assets [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202020%20July%20-%20custody.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2020/nr-occ-2020-98.html)
+* 2020 Sep - **OCC** Federally Chartered Banks and Thrifts May Engage in Certain Stablecoin Activities [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202020%20Sep%20-%20stablecoin.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2020/nr-occ-2020-125.html)
+* 2021 Jan - **OCC** Authority to Use Independent Node Verification Networks and Stablecoins for Payment Activities [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202021%20Jan%20-%20network%20node.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2.html)
+* 2021 Oct - **FSB**'s 10 recommendations for regulating stablecoin [report](https://github.com/uditgt/crypto/blob/main/FSB%20-%202021%20Oct%20Regulation%2C%20Supervision%20and%20Oversight%20of%20%E2%80%9CGlobal%20Stablecoin%E2%80%9D%20Arrangements.pdf)
+* 2021 Nov - **OCC** Clarifies [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202021%20Nov%20-%20clarification.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-121.html)
+* 2021 Nov - **President's Working Group Report** (Treasury, FED, SEC, CFTC, +OCC, +FDIC) [report](https://github.com/uditgt/crypto/blob/main/PWG%20-%20report.pdf), [memo](https://github.com/uditgt/crypto/blob/main/PWG%20-%20memo.pdf)
   * $97 trillion of non-cash payments (2018) through debit card, credit, ACH, check
   * Risk - SBCs face "credit risk, liquidity risk, operational risk, risk from poor governance, and settlement risk" + risk from custodial wallets
     * Credit risk - loss of confidence during stress period
@@ -17,18 +18,18 @@
     * subject custodial wallet providers to Federal oversight
     * limit role of custodial wallet providers (e.g. cannot issue coins, make loans) - *to avoid concentration of power* / *agency problem*
     * establish standard for inter-operability between stablecoins
-* 2022 Jan - Money & Payments [report](https://github.com/uditgt/crypto/blob/main/FRB%20-%202022%20Jan%20-%20Money-and-payments.pdf)
+* 2022 Jan - **FRB** Money & Payments [report](https://github.com/uditgt/crypto/blob/main/FRB%20-%202022%20Jan%20-%20Money-and-payments.pdf)
   * Strengthens USD as global reserve currency - *maybe foreign individuals will hold USD reserve in future too*
   * Risk to Banking - outlow of Deposits + higher cost of borrowing - can be mitigated by placing limit on indiviual holding of CBDC; paying 0% interest
-* 2022 Feb - Project Hamilton [Phase-1](https://github.com/uditgt/crypto/blob/main/Project-Hamilton-Phase-1-Whitepaper.pdf) 
-* 2022 Feb - FSB Assessment of Risks to Financial Stability from Crypto-assets [report](https://github.com/uditgt/crypto/blob/main/FSB%20-%202022%20Feb%20Risks%20to%20Financial%20Stability%20from%20Crypto%20Assets.pdf). Intermediation between TradeFi and Crypto is increasing - banks/ institutions getting increasing involved + use of complex/leverage products. **Key Risks:**
+* 2022 Feb - **FRB** Project Hamilton [Phase-1](https://github.com/uditgt/crypto/blob/main/Project-Hamilton-Phase-1-Whitepaper.pdf) 
+* 2022 Feb - **FSB** Assessment of Risks to Financial Stability from Crypto-assets [report](https://github.com/uditgt/crypto/blob/main/FSB%20-%202022%20Feb%20Risks%20to%20Financial%20Stability%20from%20Crypto%20Assets.pdf). Intermediation between TradeFi and Crypto is increasing - banks/ institutions getting increasing involved + use of complex/leverage products. **Key Risks:**
   1. **Crypto-assets** (not backed by reserves, e.g. BTC) - increasing mainstreet exposure (ETFs, CME futures, Treasury investments), intermediation with general economy - 'wealth' effect, 'confidence' effects, increasing acceptance of crypto-payment rails (El Salvador, Tesla)
   2. **Stablecoins** - liquidity mismatch, credit risk; run on reserves can spill to short-term funding markets; redemption rights differ. **GSCs (GLobal Stable Coins)** also exposed to currency risk (issuance ≠ assets), risk of disintermediation to domestic banks if people switch to foreign more stable currency
   3. **DeFi** - special risks, e.g. no clear legal liablity; concentration to few protocols and technologies
 
 **Speeches**
-* 2022 Jan - OCC Michael Hsu [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202022%20Jan%20-%20Michael%20Hsu%20speech.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-2.html)
-* 2022 Feb - FRB Lael Brainard [pdf](https://github.com/uditgt/crypto/blob/main/FRB%20-%202022%20Feb%20-%20Lael%20Brainard%20speech.pdf), [link](https://www.federalreserve.gov/newsevents/speech/files/brainard20220218a.pdf), [stablecoin paper](https://www.federalreserve.gov/econres/ifdp/files/ifdp1334.pdf)
+* 2022 Jan - OCC **Michael Hsu** [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202022%20Jan%20-%20Michael%20Hsu%20speech.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-2.html)
+* 2022 Feb - FRB **Lael Brainard** [pdf](https://github.com/uditgt/crypto/blob/main/FRB%20-%202022%20Feb%20-%20Lael%20Brainard%20speech.pdf), [link](https://www.federalreserve.gov/newsevents/speech/files/brainard20220218a.pdf), [stablecoin paper](https://www.federalreserve.gov/econres/ifdp/files/ifdp1334.pdf)
   *  (Brainard) Key risks - points to 'run risk' and 'systemic risk'. (Michael) Trust is important. If people trust they can redeem stablecoins there will be no need to actually redeem stablecoins for fiat.
   *  Growing popularity - Pew Research 16% people personally traded crypto, up from 1%. 37% of underbanked indicate they own cryto-currency vs. 10% for fully banked.
   *  (Michael) Regulating SBIs as Banks would give credibility to "stable" part of stablecoins, and help drive innovation by allowing firms to focus on "Level 2"
