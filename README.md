@@ -28,6 +28,7 @@
   3. **DeFi** - special risks, e.g. no clear legal liablity; concentration to few protocols and technologies
 
 **Speeches**
+* 2021 Nov - SEC **Caroline Crenshaw** [pdf](https://github.com/uditgt/crypto/blob/main/SEC%20-%202021%20Nov%20Caroline%20Crenshaw.pdf), [link](https://www.sec.gov/news/statement/crenshaw-defi-20211109)
 * 2022 Jan - OCC **Michael Hsu** [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202022%20Jan%20-%20Michael%20Hsu%20speech.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-2.html)
 * 2022 Feb - FRB **Lael Brainard** [pdf](https://github.com/uditgt/crypto/blob/main/FRB%20-%202022%20Feb%20-%20Lael%20Brainard%20speech.pdf), [link](https://www.federalreserve.gov/newsevents/speech/files/brainard20220218a.pdf), [stablecoin paper](https://www.federalreserve.gov/econres/ifdp/files/ifdp1334.pdf)
   *  (Brainard) Key risks - points to 'run risk' and 'systemic risk'. (Michael) Trust is important. If people trust they can redeem stablecoins there will be no need to actually redeem stablecoins for fiat.
@@ -53,7 +54,7 @@
 * **Uniswap** v3 allows LPs to concentrate liquidity in a price range (vs. (0, inf)) [whitepaoer_v3](https://github.com/uditgt/crypto/blob/main/Uniswap%20-%20whitepaper-v3.pdf), [tutorial](https://help.uniswap.org/en/articles/5391541-provide-liquidity-on-uniswap-v3)
 * **dYdX** - offers margin trading on derivatives; no KYC, no custody; after initial on-chain approval trades are on **StarkEx**; not available in [USA](https://dydx.exchange/terms) due to tighter regulatory restrictions [article](https://www.forbes.com/sites/jeffkauflin/2021/10/15/how-a-19-person-cryptocurrency-exchange-surpassed-coinbase-in-daily-trading-volume/?sh=21f8cf023066)
 * **Coinbase** rewards can be due to 'interest' (e.g. [USDC](https://help.coinbase.com/en/coinbase/taxes-reports-and-financial-services/financial-services/usd-coin-rewards-faq), [DAI](https://help.coinbase.com/en/coinbase/trading-and-funding/other/dai-rewards)), ['inflation'](https://help.coinbase.com/en/coinbase/trading-and-funding/staking-rewards/staking-inflation) or ['staking'](https://help.coinbase.com/en/coinbase/trading-and-funding/staking-rewards/yield). Sweeping funds to Compound supply pool is considered a [security](https://www.theverge.com/2021/9/8/22662826/coinbase-sec-lend-regulation-crypto-lawsuit-exchange) by SEC so Coinbase haulted its [Lend](https://www.theverge.com/2021/12/9/22826888/coinbase-defi-interest-non-us-compound-lending-program#) program. [medium post](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
-* **BlockFi**  having similar issues with [SEC](https://blockfi.com/regulatory-developments/)
+* **BlockFi**  having similar issues with [SEC](https://www.sec.gov/news/press-release/2022-26)
 * **Public Companies** holding BTC as [treasury asset](https://www.buybitcoinworldwide.com/treasuries/) - MicroStrategy (125k), Tesla (43k), Square (8k)
 * **DeFi as a Service**: [VaporNodes](https://vapornodes.finance/) - [investments](https://docs.vapornodes.finance/project-information/treasury-investments); [MidasDAO](https://midasdao.org/) - $290k of initial funding; [Tosdis](https://tosdis.finance/), [AvantGarde/Enzyme](https://avantgarde.finance/)
 * **Auditors**: [Hacken](https://hacken.io/)
