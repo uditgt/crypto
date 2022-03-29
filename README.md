@@ -44,7 +44,7 @@
 
   
 ---
-### Crypto Ecosystem: DeFi, Exchanges, Corporates
+### Crypto Ecosystem: DeFi / dApps, Exchanges (CEX / DEX), Corporates, Oracles, Auditors, Blockchains 
 * **Compound** - DeFi lending/ borrowing protocol. [whitepaper_v1.0](https://github.com/uditgt/crypto/blob/main/Compound.Whitepaper.pdf), [link](https://compound.finance/docs#guides), [Adam Bavosa](https://medium.com/compound-finance/a-walkthrough-of-contributing-to-the-compound-protocol-9450cbe2133a), [article1](https://linen.app/articles/how-to-use-compound-liquidity-pools-to-earn-your-first-defi-yield/)
 * **Compound Treasury** - Launched in June 2021. convert USD to USDC and supply to Compound to earn 4% return (Fireblock as custody) [deck](https://github.com/uditgt/crypto/blob/main/Compound%20Treasury%20Overview.pdf), [risk assessment](https://github.com/uditgt/crypto/blob/main/CompoundMarketRiskAssessment.pdf). Structured as a security at front-end. Participates in the same permissionless pool, and not a segregated pool. 
 * **AAVE**: Similar to compound, but borrowing/ lending rate are more [stable](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate) + Allows [Flash Loans (9bps)](https://docs.aave.com/faq/flash-loans)
@@ -62,7 +62,7 @@
 
 **StableCoins**
 * Tether / USDT - [attestation report](https://tether.to/en/transparency/#reports), [Dec-21](https://assets.ctfassets.net/vyse88cgwfbl/4hiNJsZ98LlZqCJHKzrLpV/2b6338482ef0093382885f80ba6f1083/Tether_Assurance-12-31-21.pdf)
-* Centre / USDC - [attestation report](https://www.centre.io/usdc-transparency)
+* Centre / USDC - Coinbase + Circle; Launched on Ethereum (+[Avalance](https://www.theblockcrypto.com/linked/127439/circles-usdc-stablecoin-deployed-on-avalanche-blockchain)), extended to Solana, Stellar, Algorand, TRON etc. [attestation report](https://www.centre.io/usdc-transparency)
 * Binance USD - BUSD
 * DAI
 
