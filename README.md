@@ -74,7 +74,8 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
 * Cardano, Solana, Cosmos are also [L-1 blockchains](https://inc4.net/the-layer-1-blockchain-boom-how-cardano-solana-and-cosmos-are-challenging-ethereum/). Cardano created by Ethereum co-founder. Cosmos focuses on interoperability b/w chain; Inter-Blockchain Communication standard (IBC), allowing for token and data transfers across blockchains.
 * [**Polkadot**](https://polkadot.network/blog/what-is-polkadot-a-brief-introduction/) (~Layer-0) - is a sharded multi-chain network. Enables forkless upgrades, allowing blockchains to evolve and adapt easily as better technology becomes available. [post1](https://polkadot.network/blog/the-parachain-advantage-exploring-polkadots-next-generation-model/), [post2](https://polkadot.network/blog/what-is-polkadot-part-2-the-vision/)
 * **Avalanche** - also considered [Layer-0](https://research.thetie.io/avalanche-ecosystem/) because it has three blockchains on it (X-xchange, P-latform, C-ontract). Built primarily for dApps. C-chain is an instance of Ethereum powered by Avalanche. Uses PoS (Snowman consensus). [doc](https://docs.avax.network/learn/platform-overview/#contract-chain-c-chain)
-* Concerns with all these scaling solutions: fragmented liquidity, some may dominate others, may lead to complete dis-intermediation from main chain.
+* **Concerns** with all these scaling solutions: fragmented liquidity, some may dominate others, may lead to complete dis-intermediation from main-chains.
+* Ethereum [rollup roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
 
 ---
 <p align="center">
