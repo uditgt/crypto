@@ -72,31 +72,31 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
   * [Optimistic rollup](https://www.youtube.com/watch?v=7pWxCklcNsU) relies on 'fraud-proof', and post data to L1 assuming it is correct. Party submitting has a bond (ETH deposit), and so does party providing proof. If correct no additional work! If incorrect another party can submit 'fraud-proof' -> enter dispute resolution -> tx is tried again, this time on L1 -> if it fails deposit is slashed (penalty). (-) Submitter has to provide enough time to others to submit 'fraud-proof' -> withdrawal times can be long. (+) EVM compatible, 99% of contract can be ported easily. (e.g., Optimism, Arbitrum, OMG, Cartesi)
   * ZK rollup relies on cryptography. Every batch posted on L1 includes zk-snark, which can be directly confirmed by L1. (-) Much harder to develop EVM-compatible zk-rollup. (-) more computational heavy. (e.g., Loopring, Kermes, zkTube, Aztec, Starkware)
 * Cardano, Solana, Cosmos are also [L-1 blockchains](https://inc4.net/the-layer-1-blockchain-boom-how-cardano-solana-and-cosmos-are-challenging-ethereum/). Cardano created by Ethereum co-founder. Cosmos focuses on interoperability b/w chain; Inter-Blockchain Communication standard (IBC), allowing for token and data transfers across blockchains.
-* [Polkadot](https://polkadot.network/blog/what-is-polkadot-a-brief-introduction/) (~Layer-0) - is a sharded multi-chain network. Enables forkless upgrades, allowing blockchains to evolve and adapt easily as better technology becomes available. [post1](https://polkadot.network/blog/the-parachain-advantage-exploring-polkadots-next-generation-model/), [post2](https://polkadot.network/blog/what-is-polkadot-part-2-the-vision/)
-* **Avalanche** - also considered [Layer-0](https://research.thetie.io/avalanche-ecosystem/) because it has three blockchains on it (X-xchange, P-latform, C-ontract). Built primarily for dApps. C-chain compatible with Ethereum & Solidity, uses PoS.[~Layer-1](https://cryptobriefing.com/what-is-avalanche-the-layer-1-blockchains-ecosystem-unpacked/)
-
+* [**Polkadot**](https://polkadot.network/blog/what-is-polkadot-a-brief-introduction/) (~Layer-0) - is a sharded multi-chain network. Enables forkless upgrades, allowing blockchains to evolve and adapt easily as better technology becomes available. [post1](https://polkadot.network/blog/the-parachain-advantage-exploring-polkadots-next-generation-model/), [post2](https://polkadot.network/blog/what-is-polkadot-part-2-the-vision/)
+* **Avalanche** - also considered [Layer-0](https://research.thetie.io/avalanche-ecosystem/) because it has three blockchains on it (X-xchange, P-latform, C-ontract). Built primarily for dApps. C-chain is an instance of Ethereum powered by Avalanche. Uses PoS (Snowman consensus). [doc](https://docs.avax.network/learn/platform-overview/#contract-chain-c-chain)
+* Concerns with all these scaling solutions: fragmented liquidity, some may dominate others, may lead to complete dis-intermediation from main chain.
 
 ---
 <p align="center">
   <img 
-    width="800"
-    height="500"
+    width="600"
+    height="400"
     src="https://github.com/uditgt/crypto/blob/main/Fig%20-%20Top%20Stablecoins.png"
   >
 </p>
 
 <p align="center">
   <img 
-    width="800"
-    height="500"
+    width="600"
+    height="400"
     src="https://github.com/uditgt/crypto/blob/main/Fig%20-%20Top%20Stablecoins%20in%20Contracts.png"
   >
 </p>
 
 <p align="center">
   <img 
-    width="800"
-    height="500"
+    width="600"
+    height="400"
     src="https://github.com/uditgt/crypto/blob/main/Fig%20-%20Ripple%20CBDC%20worldwide%202020%20report.png"
     alt="CBDC effort worldwide - Ripple 2020 report"
   >
@@ -104,13 +104,21 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
 
 <p align="center">
   <img 
-    width="800"
-    height="500"
+    width="600"
+    height="400"
     src="https://github.com/uditgt/crypto/blob/main/Fig%20-%20Defi%20TLV%20FSB%20Report%20202202.png"
     alt="FSB Risk Assessment report - 2022 Feb"
   >
 </p>
 
+<p align="center">
+  <img 
+    width="600"
+    height="400"
+    src="https://github.com/uditgt/crypto/blob/main/Fig%20-%20Blockchains%20from%20thetie.png"
+    alt="https://research.thetie.io/avalanche-ecosystem"
+  >
+</p>
 
 ---
 ### Approvals
