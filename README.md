@@ -57,9 +57,12 @@
 * **BlockFi**  having similar issues with [SEC](https://www.sec.gov/news/press-release/2022-26)
 * **Blockchain Trilemna**: decentralization, security, and scalability
   * [Layer-1](https://www.gemini.com/cryptopedia/blockchain-layer-2-network-layer-1-network#section-layer-1-scaling-solutions): Bitcoin, Ethereum, Litecoin; improve scalability through increasing data/block, consensus protocol improvement (PoW -> PoS), sharding
-  * [Layer-2](https://academy.binance.com/en/glossary/layer-2): abstract majority of data processing to auxiliary architecture (e.g., nested blockchains, sidechains, plasma) mainchain comes for dispute resolution. E.g., [Polygon](https://www.gemini.com/cryptopedia/polygon-crypto-matic-network-dapps-erc20-token) uses its own PoS blockchain and Commit Chain connectivity to help scale the Ethereum network. Other solutions derive security from Layer-1 (e.g., [rollsups](https://www.youtube.com/watch?v=7pWxCklcNsU): optimistic, zk; state channels) [videos](https://ethereum.org/en/developers/docs/scaling/)
+  * [Layer-2](https://academy.binance.com/en/glossary/layer-2): abstract majority of data processing to auxiliary architecture (e.g., nested blockchains, sidechains, plasma) mainchain comes for dispute resolution. E.g., [Polygon](https://www.gemini.com/cryptopedia/polygon-crypto-matic-network-dapps-erc20-token) uses its own PoS blockchain and Commit Chain connectivity to help scale the Ethereum network. Other solutions derive security from Layer-1 (e.g., [rollsups](https://www.youtube.com/watch?v=7pWxCklcNsU): optimistic, zk; state channels). [videos](https://ethereum.org/en/developers/docs/scaling/)
+    * Optimistic roll-up relies on 'fraud-proof', and post data to L1 assuming it is correct. Party submitting has a bond (ETH deposit), and so does party providing proof. If correct no additional work! If incorrect another party can submit 'fraud-proof' -> enter dispute resolution -> tx is tried again, this time on L1 -> if it fails deposit is slashed (penalty).
+    * ZK rollup relies on cryptography. Every batch posted on L1 includes zk-snark, which can be directly confirmed by L1.
+  
+  
   * **Avalanche** - [Layer-1 blockchain](https://cryptobriefing.com/what-is-avalanche-the-layer-1-blockchains-ecosystem-unpacked/) compatible with Ethereum & Solidity. Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper](https://arxiv.org/pdf/1906.08936.pdf)
-  * 
 * **Public Companies** holding BTC as [treasury asset](https://www.buybitcoinworldwide.com/treasuries/) - MicroStrategy (125k), Tesla (43k), Square (8k)
 * **DeFi as a Service**: [VaporNodes](https://vapornodes.finance/) - [investments](https://docs.vapornodes.finance/project-information/treasury-investments); [MidasDAO](https://midasdao.org/) - $290k of initial funding; [Tosdis](https://tosdis.finance/), [AvantGarde/Enzyme](https://avantgarde.finance/)
 * **Auditors**: [Hacken](https://hacken.io/)
