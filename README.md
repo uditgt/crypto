@@ -1,7 +1,7 @@
 # Cryptocurrencies & Blockchain
 
 ### Regulatory Chatter & Speeches
-* 2020 July - **OCC** Federally Chartered Banks and Thrifts May Provide Custody Services For Crypto Assets [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202020%20July%20-%20custody.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2020/nr-occ-2020-98.html)
+* 2020 July - **OCC** Federally Chartered Banks and Thrifts May Provide Custody Services For Crypto Assets [pdf](https://github.com/uditgt/crypto/blob/main/assets/OCC%20-%202020%20July%20-%20custody.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2020/nr-occ-2020-98.html)
 * 2020 Sep - **OCC** Federally Chartered Banks and Thrifts May Engage in Certain Stablecoin Activities [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202020%20Sep%20-%20stablecoin.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2020/nr-occ-2020-125.html)
 * 2021 Jan - **OCC** Authority to Use Independent Node Verification Networks and Stablecoins for Payment Activities [pdf](https://github.com/uditgt/crypto/blob/main/OCC%20-%202021%20Jan%20-%20network%20node.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2.html)
 * 2021 Oct - **FSB**'s 10 recommendations for regulating stablecoin [report](https://github.com/uditgt/crypto/blob/main/FSB%20-%202021%20Oct%20Regulation%2C%20Supervision%20and%20Oversight%20of%20%E2%80%9CGlobal%20Stablecoin%E2%80%9D%20Arrangements.pdf)
