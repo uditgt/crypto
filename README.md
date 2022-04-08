@@ -136,5 +136,8 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
   * [Commercium Financial](https://commerciumbank.com/#ourCompanySection)
   * [WDT](https://wdtfinancial.com/organizational-status)
 
+### Fails
+* 2022 April: Neutrino (algorithmic stablecoin) loses peg, falls to 0.79 [news](https://cryptonews.com/news/neutrino-usd-loses-peg-as-waves-dives-but-developer-claims-it-will-be-absolutely-fine-very-soon.htm)
+
 ### Data Websites: 
 * [DeFiLlama](https://defillama.com)
