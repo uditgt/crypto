@@ -141,3 +141,4 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
 
 ### Data Websites: 
 * [DeFiLlama](https://defillama.com)
+* [Glassnode](https://studio.glassnode.com/metrics?a=BTC&ema=0&m=addresses.ActiveCount&mAvg=0&mMedian=0)
