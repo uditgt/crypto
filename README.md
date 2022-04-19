@@ -83,6 +83,7 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
 * Ethereum [rollup roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
 
 ---
+### Interesting Charts
 <p align="center">
   <img 
     width="600"
@@ -123,6 +124,15 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
     height="400"
     src="https://github.com/uditgt/crypto/blob/main/assets/Fig%20-%20Blockchains%20from%20thetie.png"
     alt="https://research.thetie.io/avalanche-ecosystem"
+  >
+</p>
+
+<p align="center">
+  <img 
+    width="600"
+    height="600"
+    src="https://github.com/uditgt/crypto/blob/main/assets/Fig%20-%20metaverse-ecosystem.png"
+    alt="Metaverse ecosystem"
   >
 </p>
 
