@@ -29,7 +29,7 @@
 
 **Speeches**
 * 2021 Nov - SEC **Caroline Crenshaw** [pdf](https://github.com/uditgt/crypto/blob/main/assets/SEC%20-%202021%20Nov%20Caroline%20Crenshaw.pdf), [link](https://www.sec.gov/news/statement/crenshaw-defi-20211109)
-* 2022 Jan - OCC **Michael Hsu** [pdf](https://github.com/uditgt/crypto/blob/main/assets/OCC%20-%202022%20Jan%20-%20Michael%20Hsu%20speech.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-2.html)
+* 2022 Jan - OCC **Michael Hsu** - 'Future of Crypto-assets and Regulations' [pdf](https://github.com/uditgt/crypto/blob/main/assets/OCC%20-%202022%20Jan%20-%20Michael%20Hsu%20speech.pdf), [link](https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-2.html)
 * 2022 Feb - FRB **Lael Brainard** [pdf](https://github.com/uditgt/crypto/blob/main/assets/FRB%20-%202022%20Feb%20-%20Lael%20Brainard%20speech.pdf), [link](https://www.federalreserve.gov/newsevents/speech/files/brainard20220218a.pdf), [stablecoin paper](https://www.federalreserve.gov/econres/ifdp/files/ifdp1334.pdf)
   *  (Brainard) Key risks - points to 'run risk' and 'systemic risk'. (Michael) Trust is important. If people trust they can redeem stablecoins there will be no need to actually redeem stablecoins for fiat.
   *  Growing popularity - Pew Research 16% people personally traded crypto, up from 1%. 37% of underbanked indicate they own cryto-currency vs. 10% for fully banked.
@@ -40,6 +40,9 @@
 * 2022 Mar - OCC **Michael Hsu** on tail risk to ABA [pdf](https://github.com/uditgt/crypto/blob/main/assets/OCC%20-%202022%20Mar%20-%20Michael%20Hsu%20tail%20risk.pdf), [link](https://www.occ.gov/news-issuances/speeches/2022/pub-speech-2022-32.pdf)
   * Tail-risk from Crypto-derivatives - given limited price history, volatile nature, unstable correlations, netting-positions, wrong-way risk (i.e. firm is structurally long crypto and uses derivatives to double-down. risk will increase at the same time firm is facing financial stress)
   * **Sam Woods, UK PRA** - letter to CEOs [pdf](https://github.com/uditgt/crypto/blob/main/assets/PRA%20-%202022%20Mar%20-%20Sam%20Woods%20letter%20to%20CEOs.pdf), [link](https://www.bankofengland.co.uk/prudential-regulation/letter/2022/march/existing-or-planned-exposure-to-cryptoassests) - formal guideline from BCBS is pending, however firms should adapt exist risk frameworks (financial, operational, reputational) to account for Crypto's unique profile.
+* 2022 Apr - SEC **Gary Gensler's** remarks on Crypto - $2 trillion market. Super-bowl ads don't equal credibility. [link](https://www.sec.gov/news/speech/gensler-remarks-crypto-markets-040422)
+  * Concerns over concentrated nature of crypto-trading (99% with Top 5, 80% with Top 2) - may also act as market maker on their own platform, lending ([BlockFi $100mn fine](https://www.sec.gov/news/press-release/2022-26)), Stablecoins ($183bn) - offer feature potentially competing with bank deposits and money market funds - (a) raising Policy concerns, (b) concern for use in illicit activity (because avoid on/off-ramp to traditional banks with KYC etc.), (c) conflict of interest, Tokens are 'securities'
+
 
 **ex-USA CBDCs**
 * CBDC [tracker](https://cbdctracker.org/)
