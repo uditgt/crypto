@@ -153,11 +153,16 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
   * Protego Trust Bank [Feb/2021 conditional](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-19.html)
   * Paxos [Apr/2021 conditional](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-49.html)
   * SOFI will not engage in crypto-related activities [conditional approval](https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-4.html)
-* Wyoming's [SPDI](https://wyomingbankingdivision.wyo.gov/banks-and-trust-companies/special-purpose-depository-institutions) - can take fiat deposits but 100% reserve requirement, cannot make customer loans, can provide custody and other services focused on digital assets. ABA is [not happy](https://github.com/uditgt/crypto/blob/main/assets/ABA%20-%20against%20Wyoming%20SPDI.pdf) *naturally*.
-  * [Kraken](https://blog.kraken.com/post/6241/kraken-wyoming-first-digital-asset-bank/), [BPI article](https://bpi.com/beware-the-kraken/#_ftnref23)
-  * [Avanti](https://custodiabank.com/press/bank-charter-granted)
-  * [Commercium Financial](https://commerciumbank.com/#ourCompanySection)
-  * [WDT](https://wdtfinancial.com/organizational-status)
+* Wyoming's [SPDI](https://wyomingbankingdivision.wyo.gov/banks-and-trust-companies/special-purpose-depository-institutions) - ABA is [not happy](https://github.com/uditgt/crypto/blob/main/assets/ABA%20-%20against%20Wyoming%20SPDI.pdf) *naturally*.
+  * focus on digital assets and may provide custodial services
+  * may undertake traditional services as well - business cash management, operational accounts
+  * can take fiat deposits but 100% reserve requirement (therefore FDIC is not required), **cannot make customer loans**
+  * akin to 'custody banks' focused on safekeeping assets, transaction processing and settlement, providing 'on/off/ ramp to securities and commodities markets or customer bank accounts
+  * license provided to:
+    * [Kraken](https://blog.kraken.com/post/6241/kraken-wyoming-first-digital-asset-bank/), [BPI article](https://bpi.com/beware-the-kraken/#_ftnref23), Delays in getting [master account with Fed (Apr'22)](https://www.wyomingnews.com/wyomingbusinessreport/current_edition/federal-reserve-delays-approval-of-master-accounts-for-wyoming-special-purpose-depository-institutions/article_17cd42c9-6204-5568-a6aa-a5e19b760d9c.html)
+    * [Custodia Bank (fka Avanti)](https://custodiabank.com/press/bank-charter-granted)
+    * [Commercium Financial](https://commerciumbank.com/#ourCompanySection)
+    * [WDT](https://wdtfinancial.com/organizational-status)
 
 ### Fails
 * 2022 April: Neutrino (algorithmic stablecoin) loses peg, falls to 0.79 [news](https://cryptonews.com/news/neutrino-usd-loses-peg-as-waves-dives-but-developer-claims-it-will-be-absolutely-fine-very-soon.htm)
