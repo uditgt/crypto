@@ -37,6 +37,9 @@
   *  Lack of access to digital banking and payment services for some segments and expensiveness of cross-border payments
   *  Fed is thinking **crititcally** about CBDC - *need it to play out lender of last resort role* - esp. in times of crises when people move from stablecoins to fiat...  Complementary role of private stablecoin and CBDC
   * **4 key principles for CBDC - (i) privacy, (ii) intermediated through bank, (iii) widely transferable, and (iv) identity-verified**
+* 2022 Mar - OCC **Michael Hsu** on tail risk to ABA [pdf](https://github.com/uditgt/crypto/blob/main/assets/OCC%20-%202022%20Mar%20-%20Michael%20Hsu%20tail%20risk.pdf), [link](https://www.occ.gov/news-issuances/speeches/2022/pub-speech-2022-32.pdf)
+  * Tail-risk from Crypto-derivatives - given limited price history, volatile nature, unstable correlations, netting-positions, wrong-way risk (i.e. firm is structurally long crypto and uses derivatives to double-down. risk will increase at the same time firm is facing financial stress)
+  * **Sam Woods, UK PRA** - letter to CEOs [pdf](https://github.com/uditgt/crypto/blob/main/assets/PRA%20-%202022%20Mar%20-%20Sam%20Woods%20letter%20to%20CEOs.pdf), [link](https://www.bankofengland.co.uk/prudential-regulation/letter/2022/march/existing-or-planned-exposure-to-cryptoassests) - formal guideline from BCBS is pending, however firms should adapt exist risk frameworks (financial, operational, reputational) to account for Crypto's unique profile.
 
 **ex-USA CBDCs**
 * CBDC [tracker](https://cbdctracker.org/)
@@ -137,6 +140,10 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
 </p>
 
 ---
+### Howey Test:
+* Four criteria: (1) investment of money, (2) in common enterprise, (3) with expectation of profit, and (4) to be derived from the efforts of others [link1](https://www.investopedia.com/terms/h/howey-test.asp)
+* SEC's 'Framework for Investment Contract Analysis of Digital Assets' - [link](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets)
+
 ### Approvals
 * OCC: 
   * Anchorage [Jan/2021 conditional](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-6.html)
