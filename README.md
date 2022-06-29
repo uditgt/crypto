@@ -149,6 +149,7 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
   * Anchorage [Jan/2021 conditional](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-6.html)
   * Protego Trust Bank [Feb/2021 conditional](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-19.html)
   * Paxos [Apr/2021 conditional](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-49.html)
+  * SOFI will not engage in crypto-related activities [conditional approval](https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-4.html)
 * Wyoming's [SPDI](https://wyomingbankingdivision.wyo.gov/banks-and-trust-companies/special-purpose-depository-institutions) - can take fiat deposits but 100% reserve requirement, cannot make customer loans, can provide custody and other services focused on digital assets. ABA is [not happy](https://github.com/uditgt/crypto/blob/main/assets/ABA%20-%20against%20Wyoming%20SPDI.pdf) *naturally*.
   * [Kraken](https://blog.kraken.com/post/6241/kraken-wyoming-first-digital-asset-bank/), [BPI article](https://bpi.com/beware-the-kraken/#_ftnref23)
   * [Avanti](https://custodiabank.com/press/bank-charter-granted)
