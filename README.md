@@ -165,8 +165,9 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
     * [Commercium Financial](https://commerciumbank.com/#ourCompanySection)
     * [WDT](https://wdtfinancial.com/organizational-status)
 
-### Fails
+### Other news
 * 2022 April: Neutrino (algorithmic stablecoin) loses peg, falls to 0.79 [news](https://cryptonews.com/news/neutrino-usd-loses-peg-as-waves-dives-but-developer-claims-it-will-be-absolutely-fine-very-soon.htm)
+* 2022 Feb - Bitcoin stolen from Bitfinex in 2016 is seized by regulators,[link](https://time.com/6146749/cryptocurrency-laundering-bitfinex-hack/), [hack](https://en.wikipedia.org/wiki/2016_Bitfinex_hack)
 
 ### Data Websites: 
 * [DeFiLlama](https://defillama.com)
