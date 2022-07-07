@@ -165,9 +165,11 @@ Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper]
     * [Commercium Financial](https://commerciumbank.com/#ourCompanySection)
     * [WDT](https://wdtfinancial.com/organizational-status)
 
-### Other news
+### Misc.
 * 2022 April: Neutrino (algorithmic stablecoin) loses peg, falls to 0.79 [news](https://cryptonews.com/news/neutrino-usd-loses-peg-as-waves-dives-but-developer-claims-it-will-be-absolutely-fine-very-soon.htm)
 * 2022 Feb - Bitcoin stolen from Bitfinex in 2016 is seized by regulators,[link](https://time.com/6146749/cryptocurrency-laundering-bitfinex-hack/), [hack](https://en.wikipedia.org/wiki/2016_Bitfinex_hack)
+* 2022 Mar - [SAB 121](https://www.sec.gov/oca/staff-accounting-bulletin-121) - reflect customer crypto-assets that are managed by the firm as liabilities on the balance sheet (at fair value, with corresponding asset), disclosure on amount of crypto-asset and associated risk (technology, concentration, who holds cryptographic key)
+  * "This new guidance may result in a significant change in practice. Historically, the determination as to whether the custodian should record an asset and a related liability for crypto-assets it holds on behalf of its customers was dependent on an assessment of control over such assets and required the use of significant judgment based on the facts and circumstances." [PWC](https://viewpoint.pwc.com/dt/us/en/pwc/in_briefs/2022/2022/sab121actobligsaf202206.html)
 
 ### Data Websites: 
 * [DeFiLlama](https://defillama.com)
