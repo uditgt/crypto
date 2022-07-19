@@ -77,6 +77,7 @@
 Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper](https://arxiv.org/pdf/1906.08936.pdf)
 * **Public Companies** holding BTC as [treasury asset](https://www.buybitcoinworldwide.com/treasuries/) - MicroStrategy (125k), Tesla (43k), Square (8k)
 * **DeFi as a Service**: [VaporNodes](https://vapornodes.finance/) - [investments](https://docs.vapornodes.finance/project-information/treasury-investments); [MidasDAO](https://midasdao.org/) - $290k of initial funding; [Tosdis](https://tosdis.finance/), [AvantGarde/Enzyme](https://avantgarde.finance/)
+* **Celsius** bankruptcy - [2022/7 Restructuring plan](https://github.com/uditgt/crypto/blob/main/assets/2022%20July%20-%20Celsius%20bankruptcy%20presentation.pdf)
 * **Auditors**: [Hacken](https://hacken.io/)
 
 **StableCoins**
