@@ -72,7 +72,7 @@
     * Over-collateralized with 'perfected security interest' in 125% BTC, Issued as a security, regulated by Bermuda Monetary Authority, "full-reserve model" i.e. funds are lent on duration-matched basis.
 * **Kraken** rewards from [on-chain](https://support.kraken.com/hc/en-us/articles/360037682011) and [off-chain](https://support.kraken.com/hc/en-us/articles/360044886311); off-chain is not allowed in US yet. 
   *  *"provides you the option to contribute and earn rewards on eligible, available and idle account balances you otherwise maintain in your account"*
-  *  [NYT article](https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html), Jesse Powell's [interview](https://youtu.be/UWHLB8YEDeE?t=3001) - offer upto 5x leverage on liquid pairs; margin call at 40% of total account value; only qualified participants (ECPs) can get leverage
+  *  [2022/6 NYT article](https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html), Jesse Powell's [interview](https://youtu.be/UWHLB8YEDeE?t=3001) - offer upto 5x leverage on liquid pairs; margin call at 40% of total account value; only qualified participants (ECPs) can get leverage. [2021/9 - CFTC imposed a fine](https://github.com/uditgt/crypto/blob/main/assets/2021%20Sep%20-%20CFTC%20fine%20for%20margin%20trading.pdf) for offering margin-trading to retail clients who were not 'Eligible Contract Participants' (ECPs)
 * **BlockFi**  having similar issues with [SEC](https://www.sec.gov/news/press-release/2022-26)
 Works off *proof-of-stake* [consensus](https://docs.avax.network/), [whitepaper](https://arxiv.org/pdf/1906.08936.pdf)
 * **Public Companies** holding BTC as [treasury asset](https://www.buybitcoinworldwide.com/treasuries/) - MicroStrategy (125k), Tesla (43k), Square (8k)
