@@ -69,7 +69,7 @@
   * **[Risk Management](https://www.circle.com/blog/usdc-trust-transparency-minimizing-risk)** - "in case of a Circle **bankruptcy**, segregated USDC reserves should remain redeemable at face value, shielded from Circle creditors**
   * **[Circle Yield](https://www.circle.com/blog/circle-yield.-built-differently)** - 
     * "for businesses & accredited investors only — not retail consumers. Lending customers lend their USDC to Circle for a fixed term (1,3,6, 12mo) for a fixed return. Lending partners borrow that USDC for the same fixed term for a fixed cost."
-    * 125% collateralization, Issued as a security, regulated by Bermuda Monetary Authority, "full-reserve model" i.e. funds are lent on duration-matched basis.
+    * Over-collateralized with 'perfected security interest' in 125% BTC, Issued as a security, regulated by Bermuda Monetary Authority, "full-reserve model" i.e. funds are lent on duration-matched basis.
 * **Kraken** rewards from [on-chain](https://support.kraken.com/hc/en-us/articles/360037682011) and [off-chain](https://support.kraken.com/hc/en-us/articles/360044886311); off-chain is not allowed in US yet. 
   *  *"provides you the option to contribute and earn rewards on eligible, available and idle account balances you otherwise maintain in your account"*
   *  [NYT article](https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html), Jesse Powell's [interview](https://youtu.be/UWHLB8YEDeE?t=3001) - offer upto 5x leverage on liquid pairs; margin call at 40% of total account value; only qualified participants (ECPs) can get leverage
